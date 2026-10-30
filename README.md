@@ -25,14 +25,14 @@ Other Technical Knowledge:
 -	Basic experience with Databases (SQL)
 
 PROJECTS:
-3D Game - Unreal Engine 5 (Bachelor’s Thesis)
-Development of a videogame using Unreal Engine 5, showcasing:
--	World creation using UE5 tools such as World Partition & Level Streaming for an Open World-type level which makes use of dynamic loading and unloading. 
--	Designed landscape & scenery of different types (hills, mountains, woods etc.) using the Landscape and Foliage features.
--	Have implemented a basic movement system for the player, using Blueprint.
--	Created several NPC-type actors, which are able to simulate a dialogue system using different Widgets and Blueprints, along with relevant collisions.
--	Implemented a simple starting menu & in-game interface using Widgets. 
--	Designed a secondary, interior level, which can be accessed in-game by using a designated teleport system created via Blueprints.
+- 3D Game - Unreal Engine 5 (Bachelor’s Thesis)
+- Development of a videogame using Unreal Engine 5, showcasing:
+  -	World creation using UE5 tools such as World Partition & Level Streaming for an Open World-type level which makes use of dynamic loading and unloading. 
+  -	Designed landscape & scenery of different types (hills, mountains, woods etc.) using the Landscape and Foliage features.
+  -	Have implemented a basic movement system for the player, using Blueprint.
+  -	Created several NPC-type actors, which are able to simulate a dialogue system using different Widgets and Blueprints, along with relevant collisions.
+  -	Implemented a simple starting menu & in-game interface using Widgets. 
+  -	Designed a secondary, interior level, which can be accessed in-game by using a designated teleport system created via Blueprints.
   
 YouTube video showcasing my work/portfolio:  https://www.youtube.com/watch?v=A8C_etZvPcg
 
@@ -43,7 +43,7 @@ FOREIGN LANGUAGES
 -	Japanese - Beginner
 
 INTERESTS:
-Game Development
-Game Design
-Level Design
-Software Development
+- Game Development
+- Game Design
+- Level Design
+- Software Development
