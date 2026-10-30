@@ -1,4 +1,4 @@
-# About-Me
+# Career
 My profile, technical skills and projects
 
 Graduate of The Faculty of Mathematics and Informatics of the University of Bucharest, in “Computers and Information Technology”.
